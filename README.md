@@ -1,6 +1,8 @@
-# reviews_app
+# Simple Personal Reviews App
 
-A new Flutter project.
+A new Flutter project. Personal Review App is a mobile application that I made for myself to review a product that I want to rate with specific description. 
+
+This is for education purpose
 
 ## Getting Started
 
